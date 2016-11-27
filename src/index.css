@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif !important;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.3em;
+  margin: 0 0 23px !important;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+  margin-top: 30px !important;
+  margin-bottom: 15px !important;
+  font-weight: 100 !important;
+}
+
+.h2, h2 {
+  font-size: 35px !important;
+  margin: 30px 0 40px !important;
+}

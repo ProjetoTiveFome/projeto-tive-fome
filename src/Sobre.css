@@ -1,0 +1,34 @@
+.responsive-video-container {
+    position: relative;
+    width: 90%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.responsive-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90%;
+}
+
+.separator {
+    width: 80%;
+    height: 1px;
+    background-color: lightgrey;
+    display: block;
+    margin: 0 auto;
+}
+
+.sobre-nos {
+    padding: 120px 0 90px;
+}
+
+.sobre-nos figure {
+    width: 50px;
+}
+
+.sobre-nos img {
+    width: 100%;
+}

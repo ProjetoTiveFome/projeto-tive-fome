@@ -1,0 +1,8 @@
+gearhost:
+    host: ftp.gear.host
+    user: projetotivefome\$projetotivefome
+    pass: WwrnPlZbRhcjaZqmJkrrSeq0ooug2tt50AzAmaa0pLQnktkLKtisNbqlBk0g
+    check: true
+    path:
+        local: build/
+        remote: site/wwwroot
