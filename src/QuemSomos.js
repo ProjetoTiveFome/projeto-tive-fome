@@ -16,7 +16,7 @@ class QuemSomos extends Component {
                             Somos um grupo de amigos bem heterogêneo e, a fim de
                             manter essa diversidade, não nos ligamos a nenhum tipo de
                             igreja, nem a partidos políticos, nem a nenhuma outra
-                            instituição. Nossas crenças e ideais são tão diversos quanto os
+                            instituição. Nossas crenças e ideais são tão diversas quanto os
                             participantes que integram este grupo.
                         </p>
                     </Col>

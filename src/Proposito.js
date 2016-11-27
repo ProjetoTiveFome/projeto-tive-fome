@@ -31,7 +31,7 @@ class Proposito extends Component {
                             alimentos. Com o crescimento do grupo, foi inevitável não
                             expandirmos nossas frentes de atuação. Hoje também
                             arrecadamos roupas e cobertores para levar aos moradores de
-                            ruas. Ademais, também montamos cestas básicas e levamos
+                            ruas. Ademais, montamos cestas básicas e levamos
                             doações a famílias carentes assistidas pelo Projeto.
                         </p>
                     </Col>
