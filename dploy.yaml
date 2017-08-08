@@ -5,4 +5,4 @@ gearhost:
     check: true
     path:
         local: build/
-        remote: site/wwwroot
+        remote: site/wwwroot/
