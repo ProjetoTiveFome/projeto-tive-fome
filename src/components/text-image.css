@@ -1,0 +1,14 @@
+.text-image {
+  display: flex;
+  align-items: center;
+  margin: 30px auto;
+}
+
+.text-image-content {
+  width: 50%;
+  margin-left: 9%;
+}
+
+.text-image-img {
+  width: 40%;
+}

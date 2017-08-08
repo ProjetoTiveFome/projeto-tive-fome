@@ -1,0 +1,27 @@
+.header {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-image: url('../../img/header.jpg');
+}
+
+.header .menu {
+  display: inline;
+  float: right;
+  margin-top: 25px;
+}
+.header .menu ul {
+  display: flex;
+  list-style: none;
+}
+.header .menu ul li {
+  margin-left: 35px;
+  text-transform: uppercase;
+}
+.header .menu ul li a { color: #fff; }
+.header .menu ul li a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: #00d1f5;
+}
