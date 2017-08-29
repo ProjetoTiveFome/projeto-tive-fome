@@ -1,5 +1,3 @@
-import React from 'react';
-
 const getContent = (content) => content
   .split('\n')
   .filter(el => el !== '')
