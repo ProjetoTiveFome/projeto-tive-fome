@@ -10,7 +10,8 @@
     "google-map-react": "^0.21.5",
     "react": "^15.4.1",
     "react-bootstrap": "^0.30.7",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-scroll": "^1.6.7"
   },
   "scripts": {
     "start": "react-scripts start",
