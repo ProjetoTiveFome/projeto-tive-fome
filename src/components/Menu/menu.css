@@ -1,0 +1,25 @@
+ul.mainMenu {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+
+ul.mainMenu li {
+  margin-left: 35px;
+  text-transform: uppercase;
+}
+
+ul.mainMenu li a { color: #fff; }
+ul.mainMenu li a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: #00d1f5;
+}
+
+.mainMenu p {
+  color: #fff;
+  text-align: right;
+  padding-top: 20px;
+}

@@ -15,6 +15,10 @@ export const quemSomos = {
   `,
 }
 
+export const oqueFazemos = {
+  backgroundImage: require('../img/ajudamos.jpg')
+}
+
 export const nossoProposito = {
   'title': 'Nosso Propósito',
   'image': require('../img/proposito.svg'),
