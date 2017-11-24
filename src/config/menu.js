@@ -1,15 +1,19 @@
 const mainMenu = [
   {
     titulo: 'Sobre',
-    url: '#'
+    url: 'sobre'
   },
   {
-    titulo: 'Produtos',
-    url: '#'
+    titulo: 'Quem Somos',
+    url: 'quem-somos'
+  },
+  {
+    titulo: 'Colabore',
+    url: 'colabore'
   },
   {
     titulo: 'Contato',
-    url: '#'
+    url: 'mailto:projetotivefome@gmail.com'
   },
 ];
 
