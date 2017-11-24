@@ -14,12 +14,12 @@ import { quemSomos, oqueFazemos, nossoProposito, colabore } from './config/conte
 const App = () => (
   <div>
     <Header />
-    <VideoContainer />
+    <VideoContainer id='sobre' />
     <hr className='separator' />
-    <TextImage title={quemSomos.title} img={quemSomos.image} content={quemSomos.content} />
-    <TextImage title={nossoProposito.title} img={nossoProposito.image} content={nossoProposito.content} />
-    <FullImage backgroundImage={oqueFazemos.backgroundImage} />
-    <TextImage title={colabore.title} img={colabore.image} content={colabore.content} />
+    <TextImage id='quem-somos' title={quemSomos.title} img={quemSomos.image} content={quemSomos.content} />
+    <TextImage id='proposito' title={nossoProposito.title} img={nossoProposito.image} content={nossoProposito.content} />
+    <FullImage id='ajudamos' backgroundImage={oqueFazemos.backgroundImage} />
+    <TextImage id='colabore' title={colabore.title} img={colabore.image} content={colabore.content} />
     <Map />
   </div>
 )

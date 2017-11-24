@@ -4,8 +4,8 @@ import getContent from '../../helpers.js'
 
 import './text-image.css'
 
-const TextImage = ({ title, img, content }) => (
-  <section className='wrapper text-image'>
+const TextImage = ({ id, title, img, content }) => (
+  <section id={id} className='wrapper text-image'>
 
     <div className='text-image-content'>
       <h2>{title}</h2>

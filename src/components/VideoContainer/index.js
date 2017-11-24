@@ -7,8 +7,8 @@ import getContent from '../../helpers.js'
 
 import './videoContainer.css'
 
-const VideoContainer = () => (
-	<div className='videoComponent wrapper'>
+const VideoContainer = ({ id }) => (
+	<div id={id} className='videoComponent wrapper'>
 
 		<Video url={blocoDeVideo.url} />
 
